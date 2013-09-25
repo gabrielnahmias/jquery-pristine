@@ -17,6 +17,11 @@
             "name": "Nuri Hodges",
             "email": "nuri@irunbackwards.com",
             "url": "http://irunbackwards.com"
+        },
+        {
+            "name": "Gabriel Nahmias",
+            "email": "gabriel@terrasoftlabs.com",
+            "url": "http://terrasoftlabs.com"
         }
     ],
     "licenses": [
@@ -25,9 +30,9 @@
             "url": "http://www.apache.org/licenses/LICENSE-2.0"
         }
     ],
-    "bugs": "https://github.com/nhodges/jquery-pristine/issues",
-    "homepage": "https://github.com/nhodges/jquery-pristine",
-    "docs": "https://github.com/nhodges/jquery-pristine",
+    "bugs": "https://github.com/gabrielnahmis/jquery-pristine/issues",
+    "homepage": "https://github.com/gabrielnahmis/jquery-pristine",
+    "docs": "https://github.com/gabrielnahmis/jquery-pristine",
     "dependencies": {
         "jquery": ">=1.5"
     }
